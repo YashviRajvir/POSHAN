@@ -1,8 +1,5 @@
 POSHAN: Cardinal POS Pattern Guided Attention for News Headline Incongruence
 =======================================================================================================
-
-Introduction:-
----------------
 POSHAN is a neural attention-based model for the automatic detection of click-bait and incongruent news headlines. It uses a novel cardinal Part-of-Speech (POS) tag pattern-based hierarchical attention network to learn effective representations of sentences in a news article. In addition, it investigates a novel cardinal phrase guided attention, which uses word embeddings of the contextually-important cardinal value and neighbouring words.
 
 Library/Packages used:-
