@@ -1,5 +1,4 @@
-=======================================================================================================
-                           Fundamentals of Information Retrieval: Assignment-3 POSHAN
+POSHAN: Cardinal POS Pattern Guided Attention for News Headline Incongruence
 =======================================================================================================
 
 Library/Packages used:-
