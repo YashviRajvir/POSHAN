@@ -36,7 +36,7 @@ Steps to execute the code:-
       --output_dir=/tmp/mrpc_output/
    4. Start bert server using command
       bert-serving-start -model_dir=../uncased_L-12_H-768_A-12 -tuned_model_dir=../mrpc_output/ -ckpt_name=model.ckpt-{{Last_check_point_numbe}} -show_tokens_to_client -pooling_strategy NONE -max_seq_len 47
-   5. Put your train and test dataset files in main folder with train_dataset.csv and test_dataset.csv
+   5. Put your train and test dataset files in main folder with train_dataset.csv and test_dataset.csv .
    6. Run commands:
       python3 preprocess_FNC_data.py
       python3 FNC_POS_Extraction_Headline.py
